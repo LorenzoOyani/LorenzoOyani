@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">I'm a self-taught developer who loves learning. with strong zeal for continuous development & love for life</h3>
+<h3 align="center">I'm a self-taught developer who loves learning. with strong zeal for continuous development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzooyani&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzooyani" /> </p>
 
