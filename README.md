@@ -20,4 +20,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lorenzooyani&" alt="lorenzooyani" /></p>
 
 
-[![Lorenzo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lorenzo21)](https://github.com/anuraghazra/github-readme-stats)
+
