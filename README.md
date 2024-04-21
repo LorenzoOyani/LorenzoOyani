@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I am Lawrence </h1>
-<h3 align="center">I am  developer with string passion for learning and innovations</h3>
+<h1 align="center">Hi 👋, I'm Lawrence </h1>
+<h3 align="center">I am a developer with strong passion for learning and innovations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzooyani&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzooyani" /> </p>
 
