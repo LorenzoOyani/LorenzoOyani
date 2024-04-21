@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lorenzo</h1>
-<h3 align="center">I'm a self-taught developer who loves learning. with strong zeal for continuous development</h3>
+<h1 align="center">Hi 👋, I am Lawrence </h1>
+<h3 align="center">I am  developer with string passion for learning and innovations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lorenzooyani&label=Profile%20views&color=0e75b6&style=flat" alt="lorenzooyani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lorenzooyani" alt="lorenzooyani" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 📫 How to reach me **jerumehlawrence@gmail.com**
 
